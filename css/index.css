@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+#wrap{
+	width:350px;
+	margin:100px auto 0;
+}
+#push{
+	width:350px;
+	height:100px;
+	border:1px solid #8c8c8c;
+	text-align:center;
+	vertical-align:middle;
+	display:table-cell;
+	cursor:pointer;
+}
+
